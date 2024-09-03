@@ -4,3 +4,4 @@ Today was the first meeting. Tasks completed:
 - got lo2 to start disassembling stuff
 - added everybody to the github
 - everybody in the club joined the google classroom
+- fire alarm
