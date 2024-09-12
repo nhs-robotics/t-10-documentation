@@ -1,0 +1,8 @@
+All members present.
+
+FTC kickoff video as a club with Mr. Batra.
+
+T-10 went into a classroom for the meeting. We:
+- defined what our ideal game looks like strategy-wise (pre-auto, auto, teleop, endgame)
+   - this helped us define what capabilities the robot needs to have and what are vision for the season is
+- started brainstorming design ideas and shared on whiteboards
