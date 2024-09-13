@@ -1,3 +1,11 @@
-Narrowed down our designs from last meeting. Discussed what parts we liked and disliked about each design.
+Revisited/discussed designs from last meeting. Discussed what parts we liked and disliked about each design.
+
+Liked: through mechanism, rotating component to remove turning around
+
+Later in meeting (between Lilly, Leo, Evan, Desdin), debated between two designs -- two sets of slides, one horizontal/rotating + one for up and down -- and one set of rotating linear slides
+
+Discussed issues with each -- string tension, motor strength, # of motors available, etc, found less issues with two sets of slides, but technically not settled
+  
+Were advised to sleep on it...
 
 Eli not present.
