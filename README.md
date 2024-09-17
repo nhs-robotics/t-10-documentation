@@ -4,4 +4,6 @@ This repository contains daily documentation for the 2024-2025 FTC season for T-
 
 ## Conventions
 
-File format is as follows: `MMDDYY-comment-goes-here.txt`
+### File naming
+
+Daily documentation format: `MMDDYY-comment-goes-here.txt`
