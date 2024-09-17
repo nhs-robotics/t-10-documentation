@@ -1,0 +1,16 @@
+The new field arrived today, so we spent the meeting setting the field up.
+
+We counted and verified that the number of parts for each part was correct, and then followed the field setup instructions[1] to setup the field.
+
+Eli worked on fixing Gradle-related errors.
+
+Members present:
+- Lincoln
+- Lilly
+- Eli
+- Desdin
+- Arlan
+- Leo
+- Liam
+
+[1] https://cdn.andymark.com/media/W1siZiIsIjIwMjQvMDkvMDkvMTQvMzgvNTAvOWIzN2FmMzgtNzFkZS00M2VkLWFmMTUtMmVmZmZlNzcxY2I2L2ZpbGUiXV0/FieldSetup24-25_v3.pdf?sha=05b075257fa5f8c1
