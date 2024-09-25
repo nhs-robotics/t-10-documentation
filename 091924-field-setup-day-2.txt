@@ -1,1 +1,3 @@
 Continued field set up. Plans adjusted to allow up to October for the hardware build.
+Hardware:
+- came to concensus on scoring mechanism: two linear slide components, one vertical one horizontal/rotating
