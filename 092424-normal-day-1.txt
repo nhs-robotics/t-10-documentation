@@ -1,0 +1,9 @@
+Software:
+- fixed gradle related errors to building
+- established a team task to have accurate auto movement framework using odometry
+- refactored some of the codebase
+- clean code slate for this year
+- Eli tested his JSON auto utility
+
+Hardware:
+- 
