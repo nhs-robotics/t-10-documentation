@@ -6,4 +6,9 @@ Software:
 - Eli tested his JSON auto utility
 
 Hardware:
-- 
+- [Monday] finished field setup
+- modeled basic chassis in OnShape 
+- confirmed scoring mechanism design
+- took stock of owned parts, calculated new parts to be ordered
+- debated chassis specifics (where to mount vertical linear slides)
+- debated hanging implementation into mechanism (depends on prior bullet)
