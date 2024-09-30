@@ -1,0 +1,5 @@
+Most of the month after the brainstorming phase was spent by the software team fixing a gradle import issue that was preventing successful building to the robot. It is now fixed.
+
+Eli developed a prototype for a system to write autonomous code in JSON instead of Java. Not fully functional yet.
+
+Liam imported and set up JUnit, for the purpose of basic testing. After several iterations, works for basic functions, but not yet combined with Virtual Field to test basic auto functionality
