@@ -5,3 +5,6 @@ Hardware:
 - Replaced broken expansion hub
 
 Software:
+- Tested JUnit unit testing -- works for mathematical functions
+- Continued attempts to create a JSON auto framework
+- Comments added to code
