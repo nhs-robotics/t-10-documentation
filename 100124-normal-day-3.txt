@@ -1,0 +1,16 @@
+A. Team meeting
+- onboarding Michael back on to the team wth github
+- hardware and software alignment
+  - updated all deadlines for hardware and software
+  - added more github issues to track progress of specific tasks
+- software pruned dead branches
+
+B. Software
+- Arlan developing math for precise auto movement
+- Ilan and Liam working on JUnit implementation into codebase
+- Lincoln added documentation to entire codebase
+- Eli is working on JSON auto utility
+
+C. Hardware
+- Ordering parts and bill of materials
+- Intake prototyping
