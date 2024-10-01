@@ -1,8 +1,7 @@
-All members present.
+We spent today defining our game strategy.
 
-FTC kickoff video as a club with Mr. Batra.
-
-T-10 went into a classroom for the meeting. We:
-- defined what our ideal game looks like strategy-wise (pre-auto, auto, teleop, endgame)
-   - this helped us define what capabilities the robot needs to have and what are vision for the season is
-- started brainstorming design ideas and shared on whiteboards
+A. FTC kickoff video as a club with Mr. Batra.
+B. T-10 went into a classroom for the meeting.
+   1. We defined what our ideal game looks like strategy-wise (pre-auto, auto, teleop, endgame)
+      a. this helped us define what capabilities the robot needs to have and what are vision for the season is
+   2. We started brainstorming design ideas and shared on whiteboards

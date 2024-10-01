@@ -1,7 +1,0 @@
-Today was the first meeting. Tasks completed:
-- clean field as a team
-- create and set up new github organization
-- got lo2 to start disassembling stuff
-- added everybody to the github
-- everybody in the club joined the google classroom
-- fire alarm

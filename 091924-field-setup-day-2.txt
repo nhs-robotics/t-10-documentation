@@ -1,3 +1,5 @@
-Continued field set up. Plans adjusted to allow up to October for the hardware build.
-Hardware:
-- came to concensus on scoring mechanism: two linear slide components, one vertical one horizontal/rotating
+We spent today finishing constructing the new field.
+
+A. Finished setting up the field
+B. Adjusted plans to allow up to October for the hardware build
+C. Hardware came to concensus on scoring mechanism: two linear slide components, one vertical one horizontal/rotating
