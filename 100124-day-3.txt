@@ -14,4 +14,4 @@ B. Normal software work
     5. Eli is working on JSON auto utility
 C. Normal hardware work
     1. Ordering parts and bill of materials
-    2. Started prototyping intake design
+    2. Started chassis construction
