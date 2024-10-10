@@ -1,0 +1,10 @@
+Today, we continued building the test chassis, prototyping intake, and prototyping precise movement code.
+
+A. Hardware
+    1. Test chassis construction
+        a. 
+    2. Prototyping intake
+    3. Outreach robot/old robot - repairs
+        a. The robot has lost set screws and has sustained some age
+B. Software
+    1. Arlan started prototyping precise movement code
