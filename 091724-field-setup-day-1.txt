@@ -1,7 +1,0 @@
-We spent today constructing the new field, which arrived today.
-
-A. Constructing the new field
-    1. We counted and verified that the number of parts for each part was correct
-    2. Followed the field setup instructions to setup the field.
-        a. Instructions found here: https://cdn.andymark.com/media/W1siZiIsIjIwMjQvMDkvMDkvMTQvMzgvNTAvOWIzN2FmMzgtNzFkZS00M2VkLWFmMTUtMmVmZmZlNzcxY2I2L2ZpbGUiXV0/FieldSetup24-25_v3.pdf?sha=05b075257fa5f8c1
-B. Eli worked on fixing Gradle-related errors.

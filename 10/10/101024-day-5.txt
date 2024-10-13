@@ -1,0 +1,11 @@
+Today, we continued building the test chassis, prototyping intake, and prototyping precise movement code.
+
+A. Hardware
+    1. Test chassis construction
+        a. Missing some minor parts, will scavenge on Monday and mostly finish by Tuesday
+    2. Evan finished Desdin's claw design
+    3. Outreach robot/old robot - repairs
+        a. The robot has lost set screws and has sustained some age
+        b. Note for odometry: make sure back wheel doesn't get stuck on chassis, make sure odometers are facing in correct orientation relative to each other (issue with some software numbers?)
+B. Software
+    1. Arlan started prototyping precise movement code

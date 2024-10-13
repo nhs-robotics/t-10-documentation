@@ -32,5 +32,6 @@ C. Third thing that we did
 
 ### File naming
 
-- Daily documentation: `MMDDYY-comment-goes-here-day-#.txt`
-- Monthly documentation summaries: `MM-summary.txt`
+- Daily documentation: `MM/DD/MMDDYY-comment-goes-here-day-#.txt`
+- Monthly documentation summaries: `MM/MM-summary.txt`
+- Images and media: `MM/DD/MMDDYY-comment-goes-here-#.[ext]`

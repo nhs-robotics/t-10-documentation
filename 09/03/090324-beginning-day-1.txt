@@ -1,0 +1,6 @@
+Today was the first meeting of the season.
+
+A. We cleaned field as a team
+B. Created and set up new GitHub organization for the team to use to track issues, progress, code, and documentation
+    1. Added everybody on the team to this new GitHub
+C. Everybody in the club joined the new club Google Classroom.
