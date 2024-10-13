@@ -9,3 +9,4 @@ A. Hardware
         b. Note for odometry: make sure back wheel doesn't get stuck on chassis, make sure odometers are facing in correct orientation relative to each other (issue with some software numbers?)
 B. Software
     1. Arlan started prototyping precise movement code
+    2. Ilan and Liam working on unit testing
