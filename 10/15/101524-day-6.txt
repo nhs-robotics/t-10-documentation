@@ -1,0 +1,15 @@
+Today, hardware finished building the test chassis, and software finished adding unit tests.
+
+A. Brief sync meeting
+    1. Parts are coming in on Thursday
+    2. Software appears to be a little behind schedule
+    3. Hardware is on track
+    4. Emphasized that states is not guaranteed for us this year
+B. Software
+    1. Eli continued work on his JSON auto
+    2. Liam pushed the last commits for the unit testing 🎉 Kudos!
+    3. Arlan continued work on precise movement
+        a. Delay due to the old robot with odometry falling apart/wear and tear
+C. Hardware
+    1. Finished the test chassis - Lilly, Evan, Leo
+    2. Desdin continued prototyping the intake/claw
