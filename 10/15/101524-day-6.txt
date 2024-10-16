@@ -14,3 +14,4 @@ C. Hardware
     1. Finished the test chassis - Lilly, Evan, Leo
     2. Desdin finished the intake/claw
     3. Lilly finished CAD model of slide system
+    4. Started CAD model of full chassis -- will continue to update as season progresses
