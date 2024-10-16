@@ -12,4 +12,5 @@ B. Software
         a. Delay due to the old robot with odometry falling apart/wear and tear
 C. Hardware
     1. Finished the test chassis - Lilly, Evan, Leo
-    2. Desdin continued prototyping the intake/claw
+    2. Desdin finished the intake/claw
+    3. Lilly finished CAD model of slide system
