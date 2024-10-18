@@ -8,3 +8,5 @@ A. Software
 B. Hardware
     1. Shipments received: unpacked and verified item quantities
     2. Started printing new odometry pods
+    3. Desdin finished and tested rotating claw system
+    4. Evan and Leo found solutions to issues in current slide system model
