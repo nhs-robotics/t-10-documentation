@@ -4,6 +4,7 @@ A. Software
     1. Arlan developing precise movement engine
         a. Tested horizontal movement after having success with lateral movement last meeting on 10/15/24
         b. Began to test his error correction work
+    2. Liam integrating joystick inputs into the Novel GController framework
 B. Hardware
     1. Shipments received: unpacked and verified item quantities
     2. Started printing new odometry pods
