@@ -1,0 +1,14 @@
+Today, we finished developing the precise auto movement engine and added odometry to the robot.
+
+A. Sync meeting
+    1. Introduced new calendar
+    2. Decided driver, coach, human player, and backup roles
+        a. Driver: Lincoln / Backup: Desdin
+        b. Coach: Leo / Backup: Eli
+        c. Human Player: Arlan / Backup: Srikar
+B. Software
+    1. Odometry works
+    2. Finished developing precise auto movement
+C. Hardware
+    1. Added odometry to new robot
+    2. Continued developing linear slide and rotational mechanisms

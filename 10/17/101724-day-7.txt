@@ -1,4 +1,4 @@
-Today...
+Today, we unpacked shipments, started printing new odometry pods and continued developing the precise auto movement engine.
 
 A. Software
     1. Arlan developing precise movement engine
