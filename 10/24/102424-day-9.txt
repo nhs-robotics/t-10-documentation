@@ -1,0 +1,1 @@
+Today was a work day of continued work on adding odometry to the new robot (Lilly, Leo, Evan) and working on auto pathing and movement (Arlan).
