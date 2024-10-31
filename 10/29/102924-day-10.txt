@@ -1,11 +1,11 @@
 Today, we finished the vertical/horizontal linear slides which was the main achievement on the hardware part
-Hardware
+
+A. Hardware
     1. Linear Slides situation working now
     2. Leo is formulating plan on how to make the pulleys work
     3. Desdin forming chains for the robot 
         a. will be used to rotate linear slides
-
-Software
+B. Software
     1. peer reviewing movement vector pull request
     2. Liam is working on writing tests for previous code
     3. Eli + Arland are working on auto piloting

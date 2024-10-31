@@ -1,0 +1,13 @@
+Today was an extra work day but it is notable because a lot of work got done.
+
+A. Hardware
+    1. Completed the vertical slides set (still need to string)
+    2. Constructing rotation mechanism
+    3. 3d printing claw
+B. Software
+    1. Ilan assigned to continue development on website due November 14
+    2. Liam prototyped a controller for the linear slides
+    3. Arlan finally completed auto movement (really this time)
+        a. Vertical movement with odometry
+        b. Lateral movement with odometry
+        c. Rotation with odometry (both relative rotation and absolute--turn to specific angle)
