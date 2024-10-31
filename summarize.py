@@ -20,11 +20,13 @@ def main():
         if not os.path.exists(file):
             print('file does not exist:', file)
             sys.exit(-2)
+
+        file_name = os.path.basename(file)
         
         d = date(
-            2000 + int(file[4:6]),
-            int(file[0:2]),
-            int(file[2:4])
+            2000 + int(file_name[4:6]),
+            int(file_name[0:2]),
+            int(file_name[2:4])
         )
         
         text_file_contents += f"{d.strftime('%B %d, %Y')}:\n```\n"

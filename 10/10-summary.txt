@@ -1,0 +1,13 @@
+In the month of October, our team made significant progress in both hardware and software development. We held regular alignment meetings to ensure our projects were on track and to discuss any challenges we were facing. 
+
+At the beginning of the month, we onboarded Michael back onto the team, brought our deadlines up to date, and added more GitHub issues to track our progress. Our software team made progress on precise auto movement, JUnit implementation, teleop development, and documentation of our codebase. Meanwhile, our hardware team started chassis construction and ordered necessary parts.
+
+Throughout the month, we continued to work on our projects, and our hardware team successfully tested prior intake models, constructed a simple claw intake, and continued working on the chassis. Our software team made progress on precise movement, wrote tests, and prepared for the Oracle event at Needham High.
+
+By mid-October, we had finished building the test chassis, prototyped intake, and started prototyping precise movement code. We also finished adding unit tests to our codebase and made progress on JSON auto utilities.
+
+As the month progressed, we received shipments of necessary parts, unpacked and verified them, and started printing new odometry pods. We also finished developing the precise auto movement engine, added odometry to the robot, and made progress on the linear slide and rotational mechanisms.
+
+Finally, by the end of the month, we had finished the vertical/horizontal linear slides, formulated a plan for the pulleys, and formed chains for the robot. Our software team made progress on auto piloting, peer-reviewed the movement vector pull request, and worked on writing tests for previous code.
+
+Overall, it was a productive month for our team, with significant progress made in both hardware and software development.
