@@ -1,0 +1,13 @@
+Today was another work day. Project Manager Lincoln has been putting a lot of pressure on hardware to get an MVP for hardware by the end of today's meeting so that software can integrate next week. Kudos to Lilly for working so hard on the claw. Lincoln has also put pressure on Software team to be ready to hit the ground running next week with developments like AutoBuilder intended to make the auto process faster.
+
+A. Hardware
+    1. Finished creating v1 robot
+        a. Attached claw
+        b. Attached rotational mechanism
+        c. Linear slides strung
+        d. Everything plugged in
+B. Software
+    1. Continued work on website (Ilan)
+    2. There are a lot of branches in the code repo right now, merging all branches (Arlan)
+    3. Adding more tests (Liam)
+    4. Creating new AutoBuilder, a developer teleop mode for creating autos with EasyAuto really fast (Eli)
