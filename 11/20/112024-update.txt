@@ -1,0 +1,31 @@
+Hardware
+- Vertical slides are done -- had some issues with tension and strength of 3D printed parts (connectors snapped) but they work now
+- Rotating slides have been dis and reassembled multiple times due to issues (motor strength, connectors strenght, pulleys snapped) -- now reprinting pulleys with carbon fiber PLA and different orientation so hopefully stronger
+- Designing claw
+Software
+- Removed many constants to opt for robot configuration-specific values which allow us to use the same codebase for different robots which have different constants
+- Created AutoBuilder teleop to build auto programs faster
+    - allows us to use the controller to create a robot path during auto
+    - creates a Java file which contains the generated autonomous programs
+- Fixed outreach robot configuration
+- Identified Snowball coefficients
+    - omni drive
+- Fixed linear navigation with odometry
+- Added isPressed to GButton and GTrigger in gamepad framework
+- Created localizer
+    - determines absolute position of the robot on the field
+    - uses odometry to track relative position to a known absolute position on the field to return the robot's absolute position
+    - optionally uses April Tags to recalibrate whenever an April Tag is in range
+- Created robot visualizer
+    - Created metrics system
+        - allows us to track whatever metrics we want in real time in the interface
+        - uses @Metric annotation to a variable, set variables in Java like normal (it's that easy)
+    - Created field viewer
+        - displays a 3d model of the field with Three.js
+        - shows with the robot's position on the 3d field in real time using the localizer
+        - integrates with metrics system to add custom points and poses on the field in real time
+    - Created camera viewer
+        - streams the camera to the web interface in real time
+        - can view April Tag annotations in real time
+    - Created hardware map viewer
+        - shows the entire hardware map and additional information in the interface
